@@ -15,8 +15,12 @@ Create visually appealing and insightful dashboards to support strategic decisio
 
 🧰 Tools & Technologies Used
 Power BI Desktop
+
 DAX (Data Analysis Expressions)
+
 Power Query
+
 Data Modeling (Relationships, Star Schema)
+
 Custom Visuals and Drillthrough Pages
 
